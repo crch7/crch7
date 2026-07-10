@@ -83,7 +83,7 @@ I'm a final-year student of **Data Science & Engineering** at the **Universidad 
 ## 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/cesarramirez-chaves"><img src="https://img.shields.io/badge/-LinkedIn-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cesar-ramirez-chaves/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cesar.290504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/crch7"><img src="https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
